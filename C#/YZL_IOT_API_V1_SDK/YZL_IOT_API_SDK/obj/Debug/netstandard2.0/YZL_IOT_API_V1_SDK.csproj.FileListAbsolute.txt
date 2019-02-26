@@ -1,0 +1,9 @@
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\bin\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.deps.json
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\bin\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.dll
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\bin\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.pdb
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.dll
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_SDK\obj\Debug\netstandard2.0\YZL_IOT_API_V1_SDK.pdb

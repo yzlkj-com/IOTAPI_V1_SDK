@@ -1,0 +1,14 @@
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.deps.json
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.runtimeconfig.json
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.runtimeconfig.dev.json
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.dll
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.pdb
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK.dll
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\bin\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK.pdb
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.csproj.CopyComplete
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.dll
+E:\Microsoft Visual Studio\Project\YZL_IOT_API_V1_SDK\YZL_IOT_API_V1_SDK\obj\Debug\netcoreapp2.1\YZL_IOT_API_V1_SDK_TEST.pdb
