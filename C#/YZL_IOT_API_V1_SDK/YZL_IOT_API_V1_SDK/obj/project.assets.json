@@ -542,7 +542,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
+      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -576,7 +576,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "Lc2jX0a5pWs65AjYNxhrlzBsz2kWpMXsdKc1Cqvi4TlKisxZh1+IEDHhFcEsjZUeohkM9NIxl+i3/r8uZwaP3g==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Microsoft Visual Studio\\Project\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK_TEST.csproj",
+      "projectUniqueName": "E:\\360MoveData\\Users\\banxian\\OneDrive\\文档\\GitHub\\IOTAPI_V1_SDK\\C#\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK_TEST.csproj",
       "projectName": "YZL_IOT_API_V1_SDK_TEST",
-      "projectPath": "E:\\Microsoft Visual Studio\\Project\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK_TEST.csproj",
+      "projectPath": "E:\\360MoveData\\Users\\banxian\\OneDrive\\文档\\GitHub\\IOTAPI_V1_SDK\\C#\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK_TEST.csproj",
       "packagesPath": "C:\\Users\\banxian\\.nuget\\packages\\",
-      "outputPath": "E:\\Microsoft Visual Studio\\Project\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\obj\\",
+      "outputPath": "E:\\360MoveData\\Users\\banxian\\OneDrive\\文档\\GitHub\\IOTAPI_V1_SDK\\C#\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_V1_SDK\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -778,14 +778,13 @@
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Microsoft Visual Studio\\Project\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_SDK\\YZL_IOT_API_V1_SDK.csproj": {
-              "projectPath": "E:\\Microsoft Visual Studio\\Project\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_SDK\\YZL_IOT_API_V1_SDK.csproj"
+            "E:\\360MoveData\\Users\\banxian\\OneDrive\\文档\\GitHub\\IOTAPI_V1_SDK\\C#\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_SDK\\YZL_IOT_API_V1_SDK.csproj": {
+              "projectPath": "E:\\360MoveData\\Users\\banxian\\OneDrive\\文档\\GitHub\\IOTAPI_V1_SDK\\C#\\YZL_IOT_API_V1_SDK\\YZL_IOT_API_SDK\\YZL_IOT_API_V1_SDK.csproj"
             }
           }
         }

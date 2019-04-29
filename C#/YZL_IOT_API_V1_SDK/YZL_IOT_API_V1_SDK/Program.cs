@@ -17,6 +17,7 @@ namespace YZL_IOT_API_V1_SDK
             PublicAPI publicAPI = new PublicAPI(apiKey, secret, passPhrase);
             Console.WriteLine(deviceAPI.GetDeviceSome(new string[] { "HMTR-32" }).Result);
             Console.WriteLine(deviceAPI.GetDeviceList(1,5).Result);
+            Console.WriteLine(deviceAPI.ControlSwitchQuantity("NCWSCLA-00000011", "O1", DeviceAPI.Switc.Close).Result);
             Console.ReadLine();
         }
     }

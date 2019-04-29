@@ -11,6 +11,12 @@ namespace YZL_IOT_API_SDK
     {
         private readonly string _Prefix = "api/v1/device";
 
+        public enum Switc
+        {
+            Close, // 关
+            Open // 开
+        }
+
         public DeviceAPI(string apiKey, string secret, string passPhrase) : base(apiKey, secret, passPhrase)
         {
 
@@ -49,6 +55,33 @@ namespace YZL_IOT_API_SDK
             {
                 var url = $"{_BaseUrl}{_Prefix}/{ids}";
                 var res = await client.GetAsync(url);
+                var contentStr = await res.Content.ReadAsStringAsync();
+                if (contentStr[0] == '[')
+                    return JArray.Parse(contentStr);
+                return JObject.Parse(contentStr);
+            }
+        }
+
+        /// <summary>
+        /// 控制设备开关量
+        /// </summary>
+        /// <param name="deviceId">设备ID</param>
+        /// <param name="serialNumber">传感器序号</param>
+        /// <param name="switc">开关</param>
+        /// <param name="time">时间</param>
+        /// <returns></returns>
+        public async Task<JContainer> ControlSwitchQuantity(string deviceId, string serialNumber, Switc switc, string time = null)
+        {
+            var body = JsonConvert.SerializeObject(new
+            {
+                deviceId,
+                serialNumber,
+                switc = (int)switc
+            });
+            using (var client = new HttpClient(new HttpInterceptor(_ApiKey, _Secret, _PassPhrase, body, time)))
+            {
+                var url = $"{_BaseUrl}{_Prefix}/control";
+                var res = await client.PostAsync(url, new StringContent(body, Encoding.UTF8, "application/json"));
                 var contentStr = await res.Content.ReadAsStringAsync();
                 if (contentStr[0] == '[')
                     return JArray.Parse(contentStr);
